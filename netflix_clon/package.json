@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "movie-trailer": "^2.1.0",
+    "react-youtube": "^7.14.0"
+  }
+}
